@@ -1,0 +1,6 @@
+{
+  "name": "E-Commerce Shoes Store",
+  "description": "A modern, fast, and user-friendly online shoe store where customers can browse brands, filter products, and purchase shoes.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
